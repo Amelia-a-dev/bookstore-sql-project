@@ -58,12 +58,18 @@ The database has been thoroughly tested using SELECT queries to ensure it functi
 ## Contributors
 
 - **Amelia Zitha** – *Role 1: Database Designer*  
+Email: zithaamelia69@gmail.com
+GitHub account: https://github.com/Amelia-a-dev
   Created the ERD, defined table structures (keys, constraints, datatypes), and documented the schema.
 
 - **Katleho Sebusi** – *Role 2: Data Engineer*  
-  Wrote and executed the insert queries to populate the database with realistic data.
+Email: katlehosebusi1402@gmail.com
+GitHub account: https://github.com/KatlehoChi
+ Wrote and executed the insert queries to populate the database with realistic data.
 
-- **Lulo** – *Role 3: Tester & Data Analyst*  
+- **Lulo Moyo** – *Role 3: Tester & Data Analyst*  
+Email: lulomoyo15@gmail.com
+GitHub account: https://github.com/lulomoyo
   Ran queries to verify the database schema and correctness of data. Confirmed functionality in MySQL Workbench.
 
 ---
