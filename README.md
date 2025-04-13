@@ -34,8 +34,7 @@ This project involves designing and implementing a relational database system fo
 ## Entity Relationship Diagram (ERD)
 
 You can view the ERD for this bookstore database using the link below:
-
-[Click here to view the ERD on Draw.io](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=assignmentbookstore.drawio&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22...)
+https://app.diagrams.net/index.html
 
 ---
 
