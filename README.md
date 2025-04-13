@@ -33,8 +33,8 @@ This project involves designing and implementing a relational database system fo
 
 ## Entity Relationship Diagram (ERD)
 
-You can view the ERD for this bookstore database using the link below:
-https://app.diagrams.net/index.html
+You can view the ERD for this bookstore database using the link below 
+https://drive.google.com/file/d/1yy_vcQNhQZ1V9M-VOHVAcioSs165Jgew/view?usp=drivesdk
 
 ---
 
